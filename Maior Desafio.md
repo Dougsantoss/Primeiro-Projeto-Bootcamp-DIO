@@ -1,0 +1,3 @@
+**Douglas Santos**
+
+Meu maior desafio é conseguir sair do zero e chegar ao nível de um programador JR, tenho dedicado cerca de 4 a 5 horas diárias para estudo e com toda certeza venho evoluindo e aprendendo muito com as aulas, esse bootcamp esta sendo muito legal e desafiador, não vejo algo ruim com as dificuldades que venho tendo com o curso, sou extremamente apaixonado por tecnologia e não vejo a hora de estar trabalhando na área, e colocar tudo em pratica oque aprendi ate aqui, o caminho é longo, mas tenho certeza que no fim  serei recompensado por toda dedicação e tempo de estudo. espero em breve estar trabalhando como DEV, e eu sinto que isso não esta tão distante, estou em constante evolução e isso me aproxima ainda mais do sucesso.
