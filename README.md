@@ -4,3 +4,4 @@ Repositório criado para Projeto DIO
 ## Links Úteis e Downloads
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 [Git](https://git-scm.com/downloads)
+[Portugol](http://lite.acad.univali.br/portugol/)
